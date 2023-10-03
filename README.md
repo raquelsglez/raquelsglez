@@ -2,7 +2,7 @@
 
 <h2 align="center">Contact me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/vicent-coll-borreda-7a97a91b9/">
+<a href="https://www.linkedin.com/in/raquel-s%C3%A1nchez-gonz%C3%A1lez-24905b1bb/">
     <img src="linkedin_logo.png", width="40">
   </a>
   <a href="mailto:raquelsglez99@gmail.com">
