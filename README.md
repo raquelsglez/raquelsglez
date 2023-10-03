@@ -8,6 +8,4 @@
   <a href="mailto:raquelsglez99@gmail.com" target="_blank">
     <img src="gmail_logo.png" width="40">
   </a>
-  <a href="https://www.w3schools.com" target="_blank">Visit W3Schools</a>
-
 </p>
