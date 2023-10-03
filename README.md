@@ -1,16 +1,11 @@
-### Hi there 👋
+<img src="readme.png">
 
-<!--
-**raquelsglez/raquelsglez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2 align="center">Contact me</h2>
+<p align="center">
+<a href="https://www.linkedin.com/in/vicent-coll-borreda-7a97a91b9/">
+    <img src="linkedin_logo.png", width="40">
+  </a>
+  <a href="mailto:raquelsglez99@gmail.com">
+        <img src="gmail_logo.png" width="40">
+  </a>
+    </p>
